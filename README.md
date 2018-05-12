@@ -1,6 +1,6 @@
 # Multiple PickerViews in a Single View Example 
  
-## written in swift 4.1 
+## written in swift 4.1 / for iOS 11
  
 ### Features 
   
